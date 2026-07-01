@@ -46,5 +46,5 @@ This short course will provide an overview of the statistical underpinnings of D
 * 12:20 \- 12:30: Break  
 * 12:30 \- 1:30: Lab   
 * 1:30-1:40: Break  
-* 1:40 \- 2:00: Lecture 9: AI and statistics – Jean  
-* 2:00 \- 2:30: General discussion
+* 1:40 \- 2:10: Lecture 9: AI and statistics – Jean  
+* 2:10 \- 2:30: General discussion

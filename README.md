@@ -27,9 +27,9 @@ This short course will provide an overview of the statistical underpinnings of D
 * 9:10 \- 9:50: Lab  
 * 9:50 \- 10:00: Break  
 * 10:00-11:00: Lecture 4: Recurrent neural networks (RNNs) – Jean  
-* 11:00 \- 11:30: Long break  
-* 11:30 \- 12:20: Lab: [https://colab.research.google.com/github/nyandwi/machine\_learning\_complete/blob/main/9\_nlp\_with\_tensorflow/3\_recurrent\_neural\_networks.ipynb](https://colab.research.google.com/github/nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/3_recurrent_neural_networks.ipynb)  
-* 12:20 \- 12:30: Break  
+* 11:00 \- 11:10: Break  
+* 11:10 \- 12:00: Lab: [https://colab.research.google.com/github/nyandwi/machine\_learning\_complete/blob/main/9\_nlp\_with\_tensorflow/3\_recurrent\_neural\_networks.ipynb](https://colab.research.google.com/github/nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/3_recurrent_neural_networks.ipynb)  
+* 12:00 \- 12:30: Long Break  
 * 12:30 \- 1:30: Lecture 5: Attention and transformers – Ting  
 * 1:30-1:40: Break  
 * 1:40 \- 2:30: Lab: [https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03\_getting-started-with-transformers.ipynb](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)

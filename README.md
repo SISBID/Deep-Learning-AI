@@ -40,7 +40,7 @@ This short course will provide an overview of the statistical underpinnings of D
 * 9:00 \- 9:10: Break  
 * 9:10 \- 9:50: Lab  
 * 9:50 \- 10:00: Break  
-* 10:00-11:00: Lecture 7: AI agents – Jean  
+* 10:00-11:00: Lecture 7: Coding a transformer from scratch? – Jean  
 * 11:00 \- 11:30: Long break  
 * 11:30 \- 12:20: Lecture 8: Diffusion models – Ting  
 * 12:20 \- 12:30: Break  

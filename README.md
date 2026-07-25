@@ -36,11 +36,11 @@ This short course will provide an overview of the statistical underpinnings of D
 
 **Fri, July 31, 8am-2:30pm (6.5h)**
 
-* 8:05 \- 9:00: Lecture 6: Large language models: pre-training and post-training – Ting  
-* 9:00 \- 9:10: Break  
-* 9:10 \- 9:50: Lab  
-* 9:50 \- 10:00: Break  
-* 10:00-11:00: Lecture 7: Coding a transformer from scratch? – Jean  
+* 8:05 \- 9:10: Lecture 6 + Lab: Coding a transformer from scratch – Jean    
+* 9:10 \- 9:20: Break  
+* 9:20 \- 10:10: Lecture 7: Large language models: pre-training and post-training – Ting
+* 10:10 \- 10:20: Break  
+* 10:20-11:00: Lab
 * 11:00 \- 11:30: Long break  
 * 11:30 \- 12:20: Lecture 8: Diffusion models – Ting  
 * 12:20 \- 12:30: Break  

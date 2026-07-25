@@ -14,11 +14,11 @@ This short course will provide an overview of the statistical underpinnings of D
    
 **Wed, July 29, 11:30am-2:30pm (3h)**
 
-* 11:30 \- 12:30: Lecture 1: Introduction, neural network fundamentals – Jean  
-* 12:30-12:40: Break  
-* 12:40- 1:20: Lab – Jean (https://playground.tensorflow.org/)  
-* 1:20 \- 1:30: Break  
-* 1:30 \- 2:30: Lecture 2: Optimization – Ting
+* 11:30 \- 1:00: Lecture 1: Introduction, neural network fundamentals, and Tensorflow Playground activity – Jean  
+* 1:00 \- 1:10: Break  
+* 1:10 \- 1:30: Lab – Learning PyTorch - Jean
+* 1:30 \- 1:40: Break  
+* 1:40 \- 2:30: Lecture 2: Optimization – Ting
 
 **Thu, July 30, 8am-2:30pm (6.5h)**
 

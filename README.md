@@ -36,7 +36,7 @@ This short course will provide an overview of the statistical underpinnings of D
 
 **Fri, July 31, 8am-2:30pm (6.5h)**
 
-* 8:05 \- 9:10: Lecture 6 + Lab: Coding a transformer from scratch – Jean    
+* 8:05 \- 9:10: Lecture 6 + Lab: Coding a transformer from scratch [https://github.com/karpathy/minGPT/tree/master](https://github.com/karpathy/minGPT/tree/master) – Jean    
 * 9:10 \- 9:20: Break  
 * 9:20 \- 10:10: Lecture 7: Large language models: pre-training and post-training – Ting
 * 10:10 \- 10:20: Break  

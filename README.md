@@ -10,7 +10,7 @@ Module length: 2.5 days
    
 This short course will provide an overview of the statistical underpinnings of Deep Learning (DL) and Artificial Intelligence (AI). The course will trace the evolution of AI models, beginning with Dense Neural Networks before progressing through Convolutional (CNN) and Recurrent (RNN) frameworks to modern Transformers, Diffusion models, and AI agents. Beyond model architecture, we will also explore the relationship between AI and statistics: how AI can advance statistical analyses and research, and conversely how statistics can advance AI.  
    
-## 3.  Course session schedule (tentative)
+## 3.  Course session schedule
    
 **Wed, July 29, 11:30am-2:30pm (3h)**
 

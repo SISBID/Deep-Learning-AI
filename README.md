@@ -24,7 +24,7 @@ This short course will provide an overview of the statistical underpinnings of D
 
 * 8:05 \- 9:00: Lecture 3: Convolutional neural networks (CNNs) – Ting  
 * 9:00 \- 9:10: Break  
-* 9:10 \- 9:50: Lab  
+* 9:10 \- 9:50: Lab: https://colab.research.google.com/drive/1OiwfaRqtoviONx9qGil1n3RVYpWPUDhj?usp=sharing#scrollTo=-R5siJd_MnMY  
 * 9:50 \- 10:00: Break  
 * 10:00-11:00: Lecture 4: Recurrent neural networks (RNNs) – Jean  
 * 11:00 \- 11:10: Break  

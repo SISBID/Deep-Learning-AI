@@ -22,17 +22,17 @@ This short course will provide an overview of the statistical underpinnings of D
 
 **Thu, July 30, 8am-2:30pm (6.5h)**
 
-* 8:05 \- 9:00: Lecture 3: Convolutional neural networks (CNNs) – Ting  
+* 8:05 \- 9:00: Lecture 3: Recurrent neural networks (RNNs) – Jean  
 * 9:00 \- 9:10: Break  
-* 9:10 \- 9:50: Lab: https://colab.research.google.com/drive/1OiwfaRqtoviONx9qGil1n3RVYpWPUDhj?usp=sharing#scrollTo=-R5siJd_MnMY  
+* 9:10 \- 9:50: Lab: [https://colab.research.google.com/github/nyandwi/machine\_learning\_complete/blob/main/9\_nlp\_with\_tensorflow/3\_recurrent\_neural\_networks.ipynb](https://colab.research.google.com/github/nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/3_recurrent_neural_networks.ipynb)  
 * 9:50 \- 10:00: Break  
-* 10:00-11:00: Lecture 4: Recurrent neural networks (RNNs) – Jean  
+* 10:00-11:00: Lecture 4: Attention and transformers – Ting  
 * 11:00 \- 11:10: Break  
-* 11:10 \- 12:00: Lab: [https://colab.research.google.com/github/nyandwi/machine\_learning\_complete/blob/main/9\_nlp\_with\_tensorflow/3\_recurrent\_neural\_networks.ipynb](https://colab.research.google.com/github/nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/3_recurrent_neural_networks.ipynb)  
+* 11:10 \- 12:00: Lab: [https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03\_getting-started-with-transformers.ipynb](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
 * 12:00 \- 12:30: Long Break  
-* 12:30 \- 1:30: Lecture 5: Attention and transformers – Ting  
+* 12:30 \- 1:30: Lecture 5: Convolutional neural networks (CNNs) – Ting  
 * 1:30-1:40: Break  
-* 1:40 \- 2:30: Lab: [https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03\_getting-started-with-transformers.ipynb](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
+* 1:40 \- 2:30: Lab: https://colab.research.google.com/drive/1OiwfaRqtoviONx9qGil1n3RVYpWPUDhj?usp=sharing#scrollTo=-R5siJd_MnMY  
 
 **Fri, July 31, 8am-2:30pm (6.5h)**
 

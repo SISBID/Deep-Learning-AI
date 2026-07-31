@@ -40,7 +40,7 @@ This short course will provide an overview of the statistical underpinnings of D
 * 9:10 \- 9:20: Break  
 * 9:20 \- 10:10: Lecture 7: Large language models: pre-training and post-training – Ting
 * 10:10 \- 10:20: Break  
-* 10:20-11:00: Lab
+* 10:20-11:00: Lab: https://colab.research.google.com/drive/1csaQKYh-quAwG_Q6Vk-y2kgQXA1kftkb?usp=sharing
 * 11:00 \- 11:30: Long break  
 * 11:30 \- 12:20: Lecture 8: Diffusion models – Ting  
 * 12:20 \- 12:30: Break  
